@@ -1,3 +1,21 @@
 h1 {
     color: aqua;
 }
+
+.banner {
+    background-image: ../images/technics-q-c-640-480-9.jpg;
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    min-height:380px;
+    color: black; 
+    }
+  
+  div.caption p {
+    position: relative;
+    padding-top: 60px;
+    text-align:center;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight:600;
+    font-size: 2.5rem;
+    color: aqua;
+  }
